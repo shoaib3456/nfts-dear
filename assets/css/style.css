@@ -109,7 +109,10 @@ body{
 }
 @media (max-width: 991px) {
   .main .bg {
-    width: 500%;
+    width: 120%;
+    left: -12px;
+    opacity: .5;
+    width: 200%;
   }
 }
 .card {
